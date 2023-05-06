@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988172105183",
+    "project_id": "hotbrew-d2873",
+    "storage_bucket": "hotbrew-d2873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988172105183:android:d17c4fa7e2281adf66006a",
+        "android_client_info": {
+          "package_name": "com.cheeserose.hot_brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988172105183-82ebbco66f10jv4gk3oqkfk4eaberhu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9EF6Mdu7qQSnsRsqG2aBS-bMgBr9pB0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988172105183-82ebbco66f10jv4gk3oqkfk4eaberhu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
